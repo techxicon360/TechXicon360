@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/techxicon360" target="blank"><img src="https://img.shields.io/twitter/follow/techxicon360?logo=twitter&style=for-the-badge" alt="techxicon360" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Developer**
-
 - 📫 How to reach me **TechXicon360@gmail.com**
 
 - ⚡ Fun fact **Enjoy Coding 😇**
