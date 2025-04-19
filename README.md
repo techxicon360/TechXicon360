@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TechXicon360</h1>
+<h1 align="center">TechXicon/h1>
 <h3 align="center">Welcome to the GitHub profile of TechXicon360! We are at the forefront of innovation, specializing in cutting-edge technologies to deliver top-tier solutions. Our Expertise Web Development: Utilizing the MERN stack (MongoDB, Express, React, Node.js) for creating robust and scalable web applications. Mobile Development: Building responsive and user-friendly mobile applications. Data Science: Leveraging data analytics and machine learning to provide actionable insights. Cloud Computing: Offering cloud-based solutions for enhanced flexibility and scalability. Our Mission Our mission is to transform ideas into reality by blending creativity, technology, and strategy. We believe in pushing boundaries and continuously strive to exceed client expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techxicon360&label=Profile%20views&color=0e75b6&style=flat" alt="techxicon360" /> </p>
